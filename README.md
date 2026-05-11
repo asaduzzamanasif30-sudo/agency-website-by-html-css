@@ -51,4 +51,3 @@ Every section — from the hero banner to the leadership team — has been caref
 
 ---
 
-## 📂 Project Structure
